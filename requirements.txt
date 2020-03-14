@@ -3,8 +3,8 @@ pandas
 scipy
 scikit-learn
 scikit-image
-pillow==3.4.2
-matplotlib=
+pillow
+matplotlib
 seaborn
 jupyter
 notebook
