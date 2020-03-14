@@ -1,0 +1,44 @@
+Country,Tests_total,Date,Source,SourceDate,Remarks
+South Korea,"248,647",13 March 2020,"Report 188, Korean Center for Disease Control","13 March, 0.00 local time",The statistical reports from the Korean Center for Disease Control are always published in the same repository and are updated daily.
+China – Guangdong,"320,000",24 February 2020,Report of the WHO-China Joint Mission on Coronavirus Disease 2019 (COVID-19),24 February,This estimate is an approximation and is mentioned in page 9 of the report. No exact date for the testing period is provided.
+Italy,"86,011",12 March 2020,Statistical report from the Italian Ministry of Health,"12 March, 17.00 local time",Statistical updates from the Italian government are reported in the “News and Media” section of the website from the Italian Ministry of Health.
+Taiwan,"16,089",13 March 2020,Official dashboard from the Taiwan Centers for Disease Control,"13 March, 6:00 local time",Estimates are updated several times during the day.
+Canada – Ontario,"4,185",12 March 2020,"Government of Ontario, Ministry of Health COVID 19 Information page","12 March, 10:30 a.m. local ET","Subnational data. The figures are updated every day, seven days a week, at 10:30 a.m. and 5:30 p.m. ET."
+Denmark,"3,839",13 March 2020,Statens Serum Institut (SSI) under the Danish Ministry of Health,"13 March, 8.00 local time",The total number of tests includes 92 tests conducted in the Faroe Islands
+Russia,"76,963",11 March 2020,Russian Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing,12 March,"Estimates come from a press release. Google Translate: “As of March 10, 2020, 70,601 laboratory studies carried out by the Rospotrebnadzor hygiene and epidemiology centers in the constituent entities of the Russian Federation were carried out”"
+United Kingdom,"29,764",12 March 2020,Department of Health and Social Care and Public Health England,"12 March, 9.00 local time","Estimates are updated every day, often more than once per day"
+Ireland,"1,784",9 March 2020,"Press Release, Department of Health",10 March,
+The Netherlands,"6,000",7 March 2020,"Social media post from Ministerie van Volksgezondheid, official account",7 March,
+Japan,"10,205",12 March 2020,"Press release, Ministry of Health, Labor and Welfare","12 March, 12.00 local time","There was a previous estimate of 21,174 tests in an earlier press release. This contradiction is a source of controversy. We report the latest number (10,205) which is consistent with estimates from February."
+Czech Republic,"2,353",12 March 2020,Dashboard from the Ministry of Health,"13 March, 7:00",The dashboard was released on 12 March 2020. Previous links to COVID-19 statistics are now offline.
+Finland,900,11 March 2020,"Press release, Finnish Institute for Health and Welfare",11 March,"The exact statement from the press release is: “By 11 March 2020, samples from nearly 900 patients meeting the criteria have been examined in Finland”. There’s also an open data repository here: https://github.com/HS-Datadesk/koronavirus-avoindata"
+Slovakia,853,12 March 2020,"Press release, Ministry of Health",12 March,"The exact statement from the press release is: “Currently there are 21 positive cases in Slovakia, a total of 832 samples were negative.”"
+France,"6,628",5 March 2020,"Santé publique France, Point épidémiologique – Situation au 6 mars 2020",6 March,The official statement is missing the number of positive tests for the period 25-27 Feb. We’ve added the number of confirmed cases (18) to account for this.
+Armenia,211,9 March 2020,"Press release, Ministry of Health of The Republic of Armenia",9 March,"The exact statement from the press release is:  “As of March 9, 2020, there have been 211 tests conducted with only 1 positive result.”"
+Hungary,858,13 March 2020,"Coronavirus Information Page, Hungarian Government","13 March, 10:05 local time","Estimates are updated every day, often more than once per day"
+New Zealand,338,11 March 2020,"Press release, Ministry of Health",11 March,"The press release provides a breakdown of tests conducted, as follows: 5 confirmed cases, 2 probable cases, 331 negatives."
+Vietnam,"4,588",12 March 2020,"Ministry of Health, Dashborard with statistics on COVID-19","12 March, 22.00pm",The source reports the estimate under the headline: “Total cumulative samples tested”
+United States – CDC samples tested,"13,624",12 March 2020,"Report, Centers for Disease Control and Prevention",12 March,Number of specimens tested for SARS CoV-2 by CDC labs (N=3903) and U.S. public health laboratories* (N=9721). Data is updated regularly at noon Mondays through Fridays. Data close out at 4 p.m. the day before reporting
+United States – COVID-Tracking project,"7,934",12 March 2020,The COVID Tracking Project,"12 March, 4pm US ET",The COVID Tracking Project tracks cumulative people tested in the US by tallying individual state reporting. Their estimates cannot capture all negative tests because not all states report them.
+South Africa,645,11 March 2020,"Press release, National Institute for Communicable Diseases",11 March,
+Philippines,717,12 March 2020,"The Republic of the Philippines Department of Health, Dashboard","12 March, 15:00 local time",Confirmed cases: 52; Cases tested negative: 632;Cases pending test results: 33
+Lithuania,366,13 March 2020,"Press release, Ministry of Health of the Republic of Lithuania","March 13, 8.00",
+Australia – New South Wales,8008,8 March 2020,"Press release, New South Wales Health",8 March,
+Australia – Government of the Australian Capital Territory,649,13 March 2020,"ACT Government, Latest information about novel coronavirus","13 March,  15.00 AEDT",
+Malaysia,4010,12 March 2020,Official Portal Ministry of Health Malaysia,"12 March, 16.00 local time",
+Bahrain,9201,12 March 2020,"Ministry of Health, COVID-19 Latest Updates, Dashboard","12 March, 19.00 local time",Estimates are updated regularly
+Iceland,856,11 March 2020,"Status report, Department of civil protection and emergency","Official data published in Icelandic every day, periodically in English here",
+Norway,"8,000",12 March 2020,Statement from Director of the Institute of Public Health,12 March,"The estimate is based on comments provided by Doctor Camilla Stoltenberg, Director of the Institute of Public Health, to a news agency."
+Slovenia,"3,058",12 March 2020,"Statement from Nina Pirnat, National Institute of Public Health","12 March, 9.00 local time","The estimate is based on comments provided by Nina Pirnat, National Institute of Public Health."
+Austria,"6,582",13 March 2020,"Update Report, Austrian Federal Ministry for Social Affairs, Health, Care and Consumer Protection","13 March, 8.00 local time","Estimates are updated every day, often more than once per day"
+Canada – Alberta,"4,288",12 March 2020,"Update Report, Alberta Government, COVID-19 coronavirus info for Albertans","12 March, 15.30",Estimates are updated regularly
+Canada – British Columbia,"2,008",6 March 2020,"Update Report, BC Centre for Disease Control",12 March,"The update states: “2,008 individuals and 2,803 samples tested as of March 6, 2020.”"
+Croatia,344,9 March 2020,Statement from Health Minister Willi Beros,9 March,The estimate is based on comments provided by Health Minister Willi Beros to a newspaper.
+Thailand,"5,232",12 March 2020,"Update Report, Department of Disease Control",12 March,
+Poland,"2,234",12 March 2020,Official social media post from Ministry of Health,12 March,
+India,"4,058",6 March 2020,"Statement from Raman Gangakhedkar, head of Epidemiology and Communicable Diseases-I (ECD-I)","8 March, 21.20","The estimate is based on comments provided by Raman Gangakhedkar, head of Epidemiology and Communicable Diseases-I (ECD-I), to the newspaper The Economic Times India"
+Palestine,"1,609",11 March 2020,Official social media post from Ministry of Health,11 March,"The estimate is provided as a PDF statement. Wikipedia mentions the reported figures, but we could not translate the content to confirm the source."
+Malta,550,9 March 2020,News report without quoted source,9 March,The estimate is provided without further source. We could not confirm it in any other official statement
+Switzerland,"4,000",7 March 2020,News report without quoted source,7 March,The estimate is provided without further source. We could not confirm it in any other official statement
+Israel,"3,872",9 March 2020,Official social media post from Ministry of Health,9 March,"The estimate is provided as an image posted in social media. Wikipedia mentions the reported figures, but we could not translate the content to confirm the source."
+Panama,121,10 March 2020,News report without quoted source,"10 March, 19.00 local time",The estimate is provided without further source. We could not confirm it in any other official statement
